@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="eng">
+
+<head>
+  <meta charset="utf-8">
+  <title>Phoebe A. Stoye</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+  <!-- ** Plugins Needed for the Project ** -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="plugins/counto/animate.css">
+  <link rel="stylesheet" href="plugins/aos/aos.css">
+  <link rel="stylesheet" href="plugins/owl-carousel/owl.carousel.min.css">
+  <link rel="stylesheet" href="plugins/owl-carousel/owl.theme.default.min.css">
+  <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.css">
+
+  <!-- Icon Library -->
+  <script src="https://kit.fontawesome.com/8662363543.js" crossorigin="anonymous"></script>
+
+
+  <!-- Main Stylesheet -->
+  <link href="css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<section class="navbar-nav">
+	<a href="https://www.phoebestoye.com"><img src="images/PAS_Signature.png" width="125px"></a>
+</section>
+
+<section class="section banner pb-0">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-8 text-center">
+				<img src="images/Phoebestoye-headshot.png" height="200px" width="200px"><br><br><h2>I translate scientific research into health impact.</h2><h4>Product @ <a href="https://www.clinicalresearch.io" target="_blank">Clinical Research IO</a> / <a href="https://www.caretalk.com" target="_blank">Caretalk</a><br>Cofounder @ <a href="https://www.chirp.love" target="_blank">Chirp</a><br>Neurobiology @ Harvard ('18)</h4><br>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="portfolio">
+	<div class="container">
+		<div class="row mb-5 justify-content-center">
+	      	<div class="col-10 text-center">
+		        <div class="btn-group btn-group-toggle " data-toggle="buttons">
+		          <label class="btn active ">
+		            <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
+		          </label>
+		          <label class="btn">
+		            <input type="radio" name="shuffle-filter" value="work" />Work
+		          </label>
+		          <label class="btn">
+		            <input type="radio" name="shuffle-filter" value="data" />Data + Science
+		          </label>
+		           <label class="btn">
+		            <input type="radio" name="shuffle-filter" value="art" />Art
+		          </label>
+		          <label class="btn">
+		            <input type="radio" name="shuffle-filter" value="blog" />Blog
+		          </label>
+		        </div>
+	      	</div>
+    	</div>	
+
+		<div class="row shuffle-wrapper portfolio-gallery">
+
+	      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;work&quot;,&quot;art&quot;]">
+	        <div class="position-relative inner-box">
+	            <div class="image position-relative ">
+	               <img src="images/clinical-research-io_image.png" alt="portfolio-image" class="img-fluid w-100 d-block">
+	                <div class="overlay-box">
+	                	<a class="portfolio-image" href="https://www.clinicalresearch.io" target="_blank">
+	                  		<i class="fas fa-plus"></i>
+	                  	</a>
+	                  <div class="overlay-inner">
+	                    <div class="overlay-content">
+	                      <h5 class="mb-0"><a href="https://www.clinicalresearch.io" target="_blank">Clinical Research IO (CRIO)</a></h5>
+	                      <p>Product & Marketing</p>
+	                    </div>
+	                  </div>
+	                </div> 
+	            </div>
+	        </div>
+	        <p>I redesigned CRIO's logo (above) and am currently rolling out a rebrand & UX changes to the website. As the Marketing Manager, I previously managed and built CRIO's email automations, built an SEO strategy, launched CRIO's blog, and did marketing analytics.</p>
+	      </div>
+
+	      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;work&quot;]">
+	        <div class="position-relative inner-box" >
+	            <div class="image position-relative ">
+	               <img src="images/caretalk-image.png" alt="caretalk" class="img-fluid w-100 d-block">
+	                <div class="overlay-box">
+	                	<a class="portfolio-image" href="https://www.caretalk.com" target="_blank">
+	                  		<i class="fas fa-plus"></i>
+	                  	</a>
+		                  <div class="overlay-inner">
+		                    <div class="overlay-content">
+		                      <h5 class="mb-0"><a href="https://www.caretalk.com" target="_blank">Caretalk (via Clinical Research IO)</a></h5>
+		                      <p>Product Manager</p>
+		                    </div>
+			            </div>
+			        </div>
+			      </div>
+		      </div>
+		      <p>In my Product Manager role at CRIO, my team developed & launched the patient-facing subsidiary, tackling the issue that about 50% of clinical trials fail because they do not enroll enough participants. I researched the product, led a team of seven software engineers, UX designers, and marketers, did UX design, interfaced with the executive team & investors, and recruited and managed a Board of Medical Advisors for the product.<br><br>The product's alpha included a clinically-reviewed editorial pipeline, a personalized medication search and comparison, a clinical trial search, profiles with messaging and following capabilities, and much more.</p>
+	      </div>
+
+	      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;blog&quot;]">
+	        <div class="position-relative inner-box">
+	            <div class="image position-relative ">
+	               <img src="images/medium_article.png" alt="portfolio-image" class="img-fluid w-100 d-block">
+	                <div class="overlay-box">
+	                	<a rel="nofollow" class="portfolio-image" href="https://byrslf.co/i-didnt-give-up-as-a-college-entrepreneur-and-it-was-the-best-decision-ff83fabd1527" target="_blank">
+	                  		<i class="fas fa-plus"></i>
+	                  	</a>
+	                  <div class="overlay-inner">
+	                    <div class="overlay-content">
+	                      <h5 class="mb-0 "><a href="https://byrslf.co/i-didnt-give-up-as-a-college-entrepreneur-and-it-was-the-best-decision-ff83fabd1527" target="_blank">I didn’t give up as a student entrepreneur, and neither should you</a></h5>
+	                      <p>Published in Be Yourself on Medium</p>
+	                    </div>
+	                  </div>
+	                </div> 
+	            </div>
+	        </div>
+	        <p>In this article published in one of the highest-traffic Medium publications, I narrate my experience founding a startup in college and argue that its importance in an entrepreneur's college education.</p>
+	      </div>
+
+	      <div class="col-lg-4 col-6 mb-4 shuffle-item"  data-groups="[&quot;work&quot;]">
+		      	<div class="position-relative inner-box">
+		          <div class="image position-relative ">
+	               <img src="images/chirp_picture.png" alt="chirp" class="img-fluid w-100 d-block">
+	                <div class="overlay-box">
+	                	<a class="portfolio-image" href="https://www.chirp.love" target="_blank">
+	                  		<i class="fas fa-plus"></i>
+	                  	</a>
+		                  <div class="overlay-inner">
+		                    <div class="overlay-content">
+		                      <h5 class="mb-0"><a href="https://www.chirp.love" target="_blank">Chirp</a></h5>
+		                      <p>Cofounder</p>
+		                    </div>
+		                  </div>
+	                </div> 
+	            </div>
+		      </div>
+		      <p>I cofounded this social impact startup in college, an online hub for teen and young parents. Chirp received the 1st place McKinley grant at the Harvard i3 competition, and was in SXSW Student Startup Madness Top 32 in the U.S.<br><br>We have partnered with over 50 young parent programs across the country.</p>
+	      </div>
+
+	      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;data&quot;,&quot;blog&quot;]">
+	        <div class="position-relative inner-box">
+	            <div class="image position-relative ">
+	               <img src="images/diabetes-visualizations.png" alt="caretalk-diabetes-data" class="img-fluid w-100 d-block">
+	                <div class="overlay-box">
+	                	<a class="portfolio-image" href="diabetes-data.html" target="_blank">
+	                  		<i class="fas fa-plus"></i>
+	                  	</a>
+	                  <div class="overlay-inner">
+	                    <div class="overlay-content">
+	                       <h5 class="mb-0"><a href="diabetes-data.html" target="_blank">Type 2 Diabetes Data Snapshot</a></h5>
+	                      	<p>Data Visualization (from Caretalk)</p>
+	                    </div>
+	                  </div>
+	                </div> 
+	            </div>
+	        </div>
+	        <p>These data visualizations provide an overview of the state of Type 2 Diabetes in 2020. These were never published on Caretalk, and I chose to share them here because it illustrates how widespread the impact of this disease is.</p>
+	      </div>
+
+	      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;data&quot;,&quot;art&quot;]">
+	        <div class="position-relative inner-box">
+	            <div class="image position-relative ">
+	               <img src="images/zebrafish.jpeg" alt="zebrafish-microscope-image" class="img-fluid w-100 d-block">
+	                <div class="overlay-box">
+	                	<a class="portfolio-image popup-gallery" href="images/zebrafish.jpeg">
+	                  		<i class="fas fa-plus"></i>
+	                  	</a>
+	                  <div class="overlay-inner">
+	                    <div class="overlay-content">
+	                       <h5 class="mb-0"><a href="https://twitter.com/fleshball/status/993606526471475203">Z-projection of Zebrafish brain expressing G-Camp</a></h5>
+	                      	<p>Taken on a Lightsheet microscope, courtesy of MCB @ Harvard</p>
+	                    </div>
+	                  </div>
+	                </div> 
+	            </div>
+	        </div>
+	      </div>
+
+	      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;data&quot;,&quot;blog&quot;]">
+	        <div class="position-relative inner-box">
+	            <div class="image position-relative ">
+	               <img src="images/alzheimers-visualizations.png" alt="caretalk-alzheimers-data" class="img-fluid w-100 d-block">
+	                <div class="overlay-box">
+	                	<a class="portfolio-image" href="alzheimers-data.html" target="_blank">
+	                  		<i class="fas fa-plus"></i>
+	                  	</a>
+	                  <div class="overlay-inner">
+	                    <div class="overlay-content">
+	                       <h5 class="mb-0"><a href="alzheimers-data.html" target="_blank">Alzheimer's Disease Data Snapshot</a></h5>
+	                      	<p>Data Visualization (from Caretalk)</p>
+	                    </div>
+	                  </div>
+	                </div> 
+	            </div>
+	        </div>
+	        <p>These data visualizations provide an overview of the state of Alzheimer's Disease in 2020. These were never published on Caretalk, and I chose to share them here because it illustrates how widespread the impact of this disease is.</p>
+	      </div>
+
+
+	    </div>
+	</div>
+</section>
+
+
+<section class="footer">
+	<div class="container">
+		<div class="row ">
+			<div class="col-lg-6">
+				<p class="mb-0">© 2020 by <a href="https://www.phoebestoye.com" style="color:#666666">Phoebe Abigail Stoye</a></p>
+			</div>
+			<div class="col-lg-6">
+				<div class="widget footer-widget text-lg-right mt-5 mt-lg-0">
+					<ul class="list-inline mb-0">
+						<li class="list-inline-item"><a href="https://www.linkedin.com/in/pastoye" target="_blank"><i class="fab fa-linkedin-in mr-3"></i></a>
+						</li>
+						<li class="list-inline-item"><a href="https://twitter.com/pastoye" target="_blank"><i class="fab fa-twitter mr-3"></i></a>
+						</li>
+						<li class="list-inline-item"><a href="https://medium.com/@pastoye" target="_blank"><i class="fab fa-medium mr-3"></i></a></li>
+						<li class="list-inline-item"><a href="https://github.com/pastoye" target="_blank"><i class="fab fa-github mr-3"></i></a></li>
+						<li class="list-inline-item"><a href="https://www.instagram.com/phoebestoye/" target="_blank"><i class="fab fa-instagram mr-3"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- jQuery -->
+<script src="plugins/jQuery/jquery.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="plugins/bootstrap/bootstrap.min.js"></script>
+<script src="plugins/aos/aos.js"></script>
+<script src="plugins/owl-carousel/owl.carousel.min.js"></script>
+<script src="plugins/shuffle/shuffle.min.js"></script>
+<script src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="plugins/animated-text/animated-text.js"></script>
+<script src="plugins/counto/apear.js"></script>
+<script src="plugins/counto/counTo.js"></script>
+
+<!-- Main Script -->
+<script src="js/script.js"></script>
+
+</html>
